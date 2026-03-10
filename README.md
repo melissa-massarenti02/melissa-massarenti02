@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/melissa-massarenti02/melissa-massarenti02/main/banner_wrc_neon.png" width="100%" alt="Banner">
+  <img src="assets/banner_wrc_neon.png" width="100%" alt="Melissa WRC Lab Banner">
   
-  <h1 align="center">Namaste 🙏 I'm Melissa</h1>
+  <h1 align="center">Melissa's WRC Lab 🙏</h1>
   <p align="center"><b>Building digital engines for speed and efficiency</b></p>
 </div>
 
@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
+      <img src="assets/bio-dev.png" width="250px" alt="Engineering Simulation">
     </td>
   </tr>
 </table>
@@ -37,8 +37,15 @@
 <br>
 
 <div align="center">
-  <h3>💻 Tech Stack</h3>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <h3>🧪 Languages & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,docker,bash,git,linux,mysql,qt,vscode&theme=dark" alt="Skill Icons" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="https://www.linkedin.com/in/melissa-massarenti-engineering/">
+    <img src="assets/melissa_wrc_connect_footer.png" width="100%" alt="Connect Footer">
+  </a>
 </div>
