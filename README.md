@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner_wrc_neon.png" width="100%" alt="Melissa WRC Lab Banner">
   
-  <h1 align="center">Melissa's WRC Lab 🙏</h1>
+  <h1 align="center">Melissa Massarenti</h1>
   <p align="center"><b>Building digital engines for speed and efficiency</b></p>
 </div>
 
@@ -30,8 +30,10 @@
 
 <div align="center">
   <h3>📊 GitHub Status</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissa-massarenti02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-massarenti02&layout=compact&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissa-massarenti02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-massarenti02&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </div>
 
 <br>
