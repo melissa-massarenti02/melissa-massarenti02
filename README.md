@@ -39,8 +39,11 @@
 <br>
 
 <div align="center">
-  <h3>🧪 Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,docker,bash,git,linux,mysql,qt,vscode&theme=dark" alt="Skill Icons" />
+  <h3><font color="#FFFFFF">🧪 Languages & Tools</font></h3>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,mysql,py,matlab,docker,bash,git,linux,qt,vscode,arduino,github,postman,latex&theme=dark" />
+  </p>
 </div>
 
 <br>
